@@ -1,0 +1,4 @@
+baseURL = 'https://der-die-das-dev.github.io/'
+languageCode = 'en-us'
+title = 'Der Die Das in IT'
+theme = 'clarity'
